@@ -3,3 +3,17 @@
 ###### My favourite spot is Hyderbad.
 
 Hyderbad is located in telanaga moreover **Charminar** is one of the famous bulding in world and major intresting thing in hyderbad is **food** their are so many variety.
+
+-------------------------------------------------------------------------------------------------------
+
+# MY HOBBIES
+1. playing
+2. dancing
+3. singing
+
+
+
+
+
+
+
