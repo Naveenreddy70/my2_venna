@@ -24,9 +24,9 @@ Hyderbad is located in telanaga moreover **Charminar** is one of the famous buld
 ***
 # Albert-Einstein
 
->describe all physical phenomena—from the smallest subatomic particles to the entire universe—under the umbrella of a "Grand Unified Theory."
+>describe all physical phenomena—from the smallest subatomic particles to the entire universe—under the umbrella of a "Grand Unified Theory."*~Albert-Einstein*
 
->Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
+>Learn from yesterday, live for today, hope for tomorrow.*~Albert-Einstein*
 
 # 4 KIND OF SPORTS INTERSTED IN 
 The below table ahowa 4 kinds sports what i would like most in major
@@ -37,6 +37,7 @@ The firt coloumn shows name of the sport and the secound coloumn shows reason of
 | Hocky | Typical to play | 60 min |
 | Kabbadi | Typical to get score | 40 min |
 | Batmanton | Typical to play  | 40 min |
+
 
 
 
