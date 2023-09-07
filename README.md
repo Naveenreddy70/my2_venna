@@ -6,13 +6,19 @@ Hyderbad is located in telanaga moreover **Charminar** is one of the famous buld
 
 -------------------------------------------------------------------------------------------------------
 
-# MY HOBBIES
-1. playing
-2. dancing
-3. singing
+# Activities in Hyderbad
+1. went to wanderla
+2. went to charminar
+3. l love eating chicken biryani
 
+---------
 
+# Food
+* chicken dum biryni
+* haleem
+* Irani chai
 
+[click the link ](myStats.md)
 
 
 
