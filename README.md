@@ -38,6 +38,26 @@ The firt coloumn shows name of the sport and the secound coloumn shows reason of
 | Kabbadi | Typical to get score | 40 min |
 | Batmanton | Typical to play  | 40 min |
 
+---
+# CSS Code Fencing
+
+>System Font Stack
+
+<https://stackoverflow.com/questions/62848039/what-is-the-system-font-stack#:~:text=This%20generic%20font%20family%20lets,on%20its%20different%20supported%20platforms.>
+
+```
+:root {
+  --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.element {
+  font-family: var(--system-ui);
+}
+
+```
+
+<https://css-tricks.com/snippets/css/system-font-stack/>
+
 
 
 
