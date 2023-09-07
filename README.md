@@ -28,7 +28,7 @@ The below table ahowa 4 kinds sports what i would like most in major
 The firt coloumn shows name of the sport and the secound coloumn shows reason of my intrest more over the third coloumn shows time to spend the at sports.
 | Name of the Sport | Reason of my Intrest | Time to spend at the Sport |
 | --- |  ---  | --- | 
-| Cricket | Typical to play | 480 Min |
+| Cricket | Typical to play | 480 min |
 | Hocky | Typical to play | 60 min |
 | Kabbadi | Typical to get score | 40 min |
 | Batmanton | Typical to play  | 40 min |
