@@ -23,7 +23,9 @@ Hyderbad is located in telanaga moreover **Charminar** is one of the famous buld
 
 ***
 # Albert-Einstein
+
 >describe all physical phenomena—from the smallest subatomic particles to the entire universe—under the umbrella of a "Grand Unified Theory."
+
 >Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
 
 # 4 KIND OF SPORTS INTERSTED IN 
