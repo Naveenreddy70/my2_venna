@@ -18,7 +18,7 @@ Hyderbad is located in telanaga moreover **Charminar** is one of the famous buld
 * haleem
 * Irani chai
 
-[click the link ](myStats.md)
+[click the link ](MyStats.md)
 
 
 
